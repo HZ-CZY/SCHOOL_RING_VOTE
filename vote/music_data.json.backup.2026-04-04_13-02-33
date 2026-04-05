@@ -1,0 +1,50 @@
+[
+    {
+        "id": 3,
+        "title": "队长 - 11",
+        "source": "netease",
+        "source_id": "1907766514",
+        "cover": "https://p3.music.126.net/DMJkxcW5QbeWg_DZMASfSw==/109951169494228942.jpg",
+        "album": "11",
+        "artist": "队长",
+        "lyric_url": "https://music.163.com/api/song/lyric?os=pc&id=1907766514&lv=-1",
+        "url_standard": "https://m701.music.126.net/20260404125619/237636f45140110372a121511ed7377d/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/35835979691/2bef/0d5d/2732/e00d250321be286239c6f46c20edf91b.mp3?vuutv=Fh40KiJvXc5rM73DFJjq38KNjQSEvcgps2qc8UbxbmogY7ZlmQv2+oKMSJ98p+XhM1hvHLFqS/IbqSOHraSr3RUk2+29BzCVc/c4dX7uLt8=",
+        "quality_standard": "standard",
+        "url": "https://m701.music.126.net/20260404125621/678d1ad7d1cbdbb2dbefa04e2b58a989/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/35835979691/2bef/0d5d/2732/e00d250321be286239c6f46c20edf91b.mp3?vuutv=brhySVrNpjaZrZBXbmRi9adaIYRR+srQ5gKwL9sGE4sHCJ2OA5nIsnNqYSmar/Q26iRxGLUIkb43fLKlLFcLyl9PE2O/juwKOc2Jk5kTAdI=",
+        "quality": "high",
+        "url_high": "https://m701.music.126.net/20260404125621/678d1ad7d1cbdbb2dbefa04e2b58a989/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/35835979691/2bef/0d5d/2732/e00d250321be286239c6f46c20edf91b.mp3?vuutv=brhySVrNpjaZrZBXbmRi9adaIYRR+srQ5gKwL9sGE4sHCJ2OA5nIsnNqYSmar/Q26iRxGLUIkb43fLKlLFcLyl9PE2O/juwKOc2Jk5kTAdI=",
+        "quality_high": "high"
+    },
+    {
+        "id": 2,
+        "title": "汪苏泷 - 如果爱忘了 (live)",
+        "source": "netease",
+        "source_id": "2124385868",
+        "cover": "https://p4.music.126.net/3nL__2mV7k65XMoUw6Gu-g==/109951169721390560.jpg",
+        "album": "声生不息·家年华 第12期",
+        "artist": "汪苏泷",
+        "lyric_url": "https://music.163.com/api/song/lyric?os=pc&id=2124385868&lv=-1",
+        "url_standard": "https://m701.music.126.net/20260404125610/dfe377dae7a147089df138e50bfa7f9a/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/33710739855/acaa/b0ee/98de/355adfe531aa47b6dd642c3f8f2b6286.mp3?vuutv=GwR62/Kf0PUCkrOpGTFmh3VXbpteA8bNhLo/lSkUmkithQtF3BwadPJzjp2yubRGKtYAjpQSBlwDYtR5/kp4ypd2EITdP3pLHhFb8dhOCCE=",
+        "quality_standard": "standard",
+        "url": "https://m701.music.126.net/20260404125611/4f3319e0fccb07df12bfb85a5663e9c4/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/33710739855/acaa/b0ee/98de/355adfe531aa47b6dd642c3f8f2b6286.mp3?vuutv=vghweJsFlYliQx3gtObYrrYJpWGWl/zCpyopHCKxH9vASdF4mbGpWQqSqZKf65ZL5X0VVUfdz5xQrwL5aRr8/FJXKP6Y/1Gmv+CkpDr6eVM=",
+        "quality": "high",
+        "url_high": "https://m701.music.126.net/20260404125611/4f3319e0fccb07df12bfb85a5663e9c4/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/33710739855/acaa/b0ee/98de/355adfe531aa47b6dd642c3f8f2b6286.mp3?vuutv=vghweJsFlYliQx3gtObYrrYJpWGWl/zCpyopHCKxH9vASdF4mbGpWQqSqZKf65ZL5X0VVUfdz5xQrwL5aRr8/FJXKP6Y/1Gmv+CkpDr6eVM=",
+        "quality_high": "high"
+    },
+    {
+        "id": 1,
+        "title": "Dizzy Dizzo (蔡诗芸) - 雨过后的风景",
+        "source": "netease",
+        "source_id": "215382",
+        "cover": "https://p4.music.126.net/f5GfN6iwFpm-W4aS51xI4Q==/109951172654470520.jpg",
+        "album": "黑色彩虹",
+        "artist": "Dizzy Dizzo (蔡诗芸)",
+        "lyric_url": "https://music.163.com/api/song/lyric?os=pc&id=215382&lv=-1",
+        "url_standard": "https://m701.music.126.net/20260404125555/053111203e58ffe3ddde6976988187e5/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/34456070906/5c1f/97cc/8256/8e828ac128d5abc4e1d89476d075251c.mp3?vuutv=SNRiElzAFdluEzD0nQWITVU944NskuzUI8VBfF7Wjfi+NSjoLruNkTnaEFNQNDOuba8P44+4JR3b+CsTRGjZSa7nuCsj058chmlUujpo30E=",
+        "quality_standard": "standard",
+        "url": "https://m801.music.126.net/20260404125556/8419b74f020bab3f7d16f36082ed6317/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/34456070906/5c1f/97cc/8256/8e828ac128d5abc4e1d89476d075251c.mp3?vuutv=9c+u6lptaHyYT4r/SrUfZ30jZ/45pnf4u6zWXRbAFWKUc4zaf/QWeNjlN493BTMQ/E/okwybc86o84RzWK9QEqsOr7414kPdrxKHqW+s8Rg=",
+        "quality": "high",
+        "url_high": "https://m801.music.126.net/20260404125556/8419b74f020bab3f7d16f36082ed6317/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/34456070906/5c1f/97cc/8256/8e828ac128d5abc4e1d89476d075251c.mp3?vuutv=9c+u6lptaHyYT4r/SrUfZ30jZ/45pnf4u6zWXRbAFWKUc4zaf/QWeNjlN493BTMQ/E/okwybc86o84RzWK9QEqsOr7414kPdrxKHqW+s8Rg=",
+        "quality_high": "high"
+    }
+]
