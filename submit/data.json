@@ -28,67 +28,11 @@
         }
     ],
     "submissions": {
-        "all": [
-            {
-                "id": 2124385868,
-                "name": "如果爱忘了 (live)",
-                "artist": "汪苏泷",
-                "album": "声生不息·家年华 第12期",
-                "picUrl": "https:\/\/p4.music.126.net\/3nL__2mV7k65XMoUw6Gu-g==\/109951169721390560.jpg",
-                "timestamp": "2026-04-03 23:04:47",
-                "ai_passed": 0
-            },
-            {
-                "id": 1907766514,
-                "name": "11",
-                "artist": "队长",
-                "album": "11",
-                "picUrl": "https:\/\/p3.music.126.net\/DMJkxcW5QbeWg_DZMASfSw==\/109951169494228942.jpg",
-                "timestamp": "2026-04-03 23:03:24",
-                "ai_passed": 0
-            },
-            {
-                "id": 1907766514,
-                "name": "11",
-                "artist": "队长",
-                "album": "11",
-                "picUrl": "https:\/\/p3.music.126.net\/DMJkxcW5QbeWg_DZMASfSw==\/109951169494228942.jpg",
-                "timestamp": "2026-04-03 23:03:12",
-                "ai_passed": 0
-            }
-        ],
+        "all": [],
         "approved": [],
-        "rejected": [
-            {
-                "id": 2124385868,
-                "name": "如果爱忘了 (live)",
-                "artist": "汪苏泷",
-                "album": "声生不息·家年华 第12期",
-                "picUrl": "https:\/\/p4.music.126.net\/3nL__2mV7k65XMoUw6Gu-g==\/109951169721390560.jpg",
-                "timestamp": "2026-04-03 23:04:47",
-                "ai_passed": 0
-            },
-            {
-                "id": 1907766514,
-                "name": "11",
-                "artist": "队长",
-                "album": "11",
-                "picUrl": "https:\/\/p3.music.126.net\/DMJkxcW5QbeWg_DZMASfSw==\/109951169494228942.jpg",
-                "timestamp": "2026-04-03 23:03:24",
-                "ai_passed": 0
-            },
-            {
-                "id": 1907766514,
-                "name": "11",
-                "artist": "队长",
-                "album": "11",
-                "picUrl": "https:\/\/p3.music.126.net\/DMJkxcW5QbeWg_DZMASfSw==\/109951169494228942.jpg",
-                "timestamp": "2026-04-03 23:03:12",
-                "ai_passed": 0
-            }
-        ]
+        "rejected": []
     },
-    "last_cleanup_month": "2026-03",
+    "last_cleanup_month": "2026-04",
     "announcement": "2026.03.05\n新增Q&amp;A板块",
     "feedbacks": []
 }

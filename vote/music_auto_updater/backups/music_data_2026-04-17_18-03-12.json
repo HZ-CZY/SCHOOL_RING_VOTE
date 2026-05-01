@@ -1,0 +1,34 @@
+[
+    {
+        "id": 2,
+        "title": "汪苏泷 - 如果爱忘了 (live)",
+        "source": "netease",
+        "source_id": "2124385868",
+        "cover": "https:\/\/p4.music.126.net\/3nL__2mV7k65XMoUw6Gu-g==\/109951169721390560.jpg",
+        "album": "声生不息·家年华 第12期",
+        "artist": "汪苏泷",
+        "lyric_url": "https:\/\/music.163.com\/api\/song\/lyric?os=pc&id=2124385868&lv=-1",
+        "url_standard": "http:\/\/m801.music.126.net\/20260417181312\/9bf4fc2e8caa84cfb5f372e836ddf8e7\/jdymusic\/obj\/wo3DlMOGwrbDjj7DisKw\/33710741465\/814d\/77be\/fbe2\/66b0a340272ae99f19bade1f6cc86053.mp3",
+        "quality_standard": "standard",
+        "url": "http:\/\/m701.music.126.net\/20260417181313\/3840126c6bf0bdf2da70e61d1c72eaa1\/jdymusic\/obj\/wo3DlMOGwrbDjj7DisKw\/33710740601\/37f3\/0d8b\/3827\/96ce8d915ed10df66b7a2897367888ea.flac",
+        "quality": "high",
+        "url_high": "http:\/\/m701.music.126.net\/20260417181313\/3840126c6bf0bdf2da70e61d1c72eaa1\/jdymusic\/obj\/wo3DlMOGwrbDjj7DisKw\/33710740601\/37f3\/0d8b\/3827\/96ce8d915ed10df66b7a2897367888ea.flac",
+        "quality_high": "high"
+    },
+    {
+        "id": 1,
+        "title": "Dizzy Dizzo (蔡诗芸) - 雨过后的风景",
+        "source": "netease",
+        "source_id": "215382",
+        "cover": "https:\/\/p4.music.126.net\/f5GfN6iwFpm-W4aS51xI4Q==\/109951172654470520.jpg",
+        "album": "黑色彩虹",
+        "artist": "Dizzy Dizzo (蔡诗芸)",
+        "lyric_url": "https:\/\/music.163.com\/api\/song\/lyric?os=pc&id=215382&lv=-1",
+        "url_standard": "http:\/\/m701.music.126.net\/20260417181315\/2ca200fe53bab5d2e97d0186ea6226a1\/jdymusic\/obj\/wo3DlMOGwrbDjj7DisKw\/34456076015\/546e\/b603\/7e96\/f1882560beff647cafe440f0f6aa7767.mp3",
+        "quality_standard": "standard",
+        "url": "http:\/\/m801.music.126.net\/20260417181316\/92d5e9beaf8e9aaa2fbf487844b87150\/jdymusic\/obj\/wo3DlMOGwrbDjj7DisKw\/34456077151\/036c\/2a22\/6933\/52056eee199c937b64d1e4161d39e267.flac",
+        "quality": "high",
+        "url_high": "http:\/\/m801.music.126.net\/20260417181316\/92d5e9beaf8e9aaa2fbf487844b87150\/jdymusic\/obj\/wo3DlMOGwrbDjj7DisKw\/34456077151\/036c\/2a22\/6933\/52056eee199c937b64d1e4161d39e267.flac",
+        "quality_high": "high"
+    }
+]

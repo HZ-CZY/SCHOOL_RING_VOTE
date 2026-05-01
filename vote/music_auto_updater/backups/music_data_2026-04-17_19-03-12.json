@@ -10,9 +10,9 @@
         "lyric_url": "https:\/\/music.163.com\/api\/song\/lyric?os=pc&id=2124385868&lv=-1",
         "url_standard": "http:\/\/m801.music.126.net\/20260417191312\/9755dfda440b24812299c014f9d6e35d\/jdymusic\/obj\/wo3DlMOGwrbDjj7DisKw\/33710741465\/814d\/77be\/fbe2\/66b0a340272ae99f19bade1f6cc86053.mp3",
         "quality_standard": "standard",
-        "url": "http:\/\/m801.music.126.net\/20260417192821\/d5d3f546bff975f2cb83b7861c6567b6\/jdymusic\/obj\/wo3DlMOGwrbDjj7DisKw\/33710740601\/37f3\/0d8b\/3827\/96ce8d915ed10df66b7a2897367888ea.flac",
+        "url": "http:\/\/m701.music.126.net\/20260417191313\/ca6c82d78159b822618fa55705949559\/jdymusic\/obj\/wo3DlMOGwrbDjj7DisKw\/33710740601\/37f3\/0d8b\/3827\/96ce8d915ed10df66b7a2897367888ea.flac",
         "quality": "high",
-        "url_high": "http:\/\/m801.music.126.net\/20260417192821\/d5d3f546bff975f2cb83b7861c6567b6\/jdymusic\/obj\/wo3DlMOGwrbDjj7DisKw\/33710740601\/37f3\/0d8b\/3827\/96ce8d915ed10df66b7a2897367888ea.flac",
+        "url_high": "http:\/\/m701.music.126.net\/20260417191313\/ca6c82d78159b822618fa55705949559\/jdymusic\/obj\/wo3DlMOGwrbDjj7DisKw\/33710740601\/37f3\/0d8b\/3827\/96ce8d915ed10df66b7a2897367888ea.flac",
         "quality_high": "high"
     },
     {
@@ -24,11 +24,11 @@
         "album": "黑色彩虹",
         "artist": "Dizzy Dizzo (蔡诗芸)",
         "lyric_url": "https:\/\/music.163.com\/api\/song\/lyric?os=pc&id=215382&lv=-1",
-        "url_standard": "http:\/\/m801.music.126.net\/20260417192823\/d4a3942335436db199f21a108d4330ad\/jdymusic\/obj\/wo3DlMOGwrbDjj7DisKw\/34456076015\/546e\/b603\/7e96\/f1882560beff647cafe440f0f6aa7767.mp3",
+        "url_standard": "http:\/\/m701.music.126.net\/20260417191315\/2b401dfd9cec55644549a160125c1357\/jdymusic\/obj\/wo3DlMOGwrbDjj7DisKw\/34456076015\/546e\/b603\/7e96\/f1882560beff647cafe440f0f6aa7767.mp3",
         "quality_standard": "standard",
-        "url": "http:\/\/m701.music.126.net\/20260417192824\/e5316c6de827feab8aedaae90aacced4\/jdymusic\/obj\/wo3DlMOGwrbDjj7DisKw\/34456077151\/036c\/2a22\/6933\/52056eee199c937b64d1e4161d39e267.flac",
+        "url": "http:\/\/m801.music.126.net\/20260417191316\/b7d0cf663ab02997429a885d6fd75856\/jdymusic\/obj\/wo3DlMOGwrbDjj7DisKw\/34456077151\/036c\/2a22\/6933\/52056eee199c937b64d1e4161d39e267.flac",
         "quality": "high",
-        "url_high": "http:\/\/m701.music.126.net\/20260417192824\/e5316c6de827feab8aedaae90aacced4\/jdymusic\/obj\/wo3DlMOGwrbDjj7DisKw\/34456077151\/036c\/2a22\/6933\/52056eee199c937b64d1e4161d39e267.flac",
+        "url_high": "http:\/\/m801.music.126.net\/20260417191316\/b7d0cf663ab02997429a885d6fd75856\/jdymusic\/obj\/wo3DlMOGwrbDjj7DisKw\/34456077151\/036c\/2a22\/6933\/52056eee199c937b64d1e4161d39e267.flac",
         "quality_high": "high"
     }
 ]
